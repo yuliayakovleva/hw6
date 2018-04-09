@@ -17,3 +17,11 @@
 ### ![](https://github.com/yuliayakovleva/hw6/blob/master/illyf7aCLRs.jpg)
 #### Описание:
 С дополнением "home" могут употребляться оба глагола (One morning I	*strolled	home* from the supermarket...),(They were	*walking	home* along the river bank...), а с дополнением "mile" только глагол "walk" (...Anna	walked	a hundred miles...).
+
+## 3.Бонусное
+### ![](https://github.com/yuliayakovleva/hw6/blob/master/UZxA6Oyetcs.jpg)
+Мы наблюдаем на графике резкий рост частотности слова "oversee" c 1960 года.
+### ![](https://github.com/yuliayakovleva/hw6/blob/master/AfjGKYRaLnQ.jpg)
+### ![](https://github.com/yuliayakovleva/hw6/blob/master/ZgSjgaX76LQ.jpg)
+Как и в Sketch Engine данное слово с 1969 года попадает в категорию Trends, следовательно, данные сходятся с результатом в 
+ Google Ngram. Даже сами графики, как мы можем заметить, практически одинаковые. Я думаю, что такие точные результаты получаются из-за того, что данное слово достаточно популярно. 
