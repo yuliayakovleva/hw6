@@ -14,6 +14,6 @@
 ### ![](https://github.com/yuliayakovleva/hw6/blob/master/m9aUiNJmOuY.jpg)
 
 ## 2.
-### ![](https://github.com/yuliayakovleva/hw6/blob/master/-8AU8HjNlOQ.jpg)
+### ![](https://github.com/yuliayakovleva/hw6/blob/master/illyf7aCLRs.jpg)
 #### Описание:
-С дополнением "" могут употребляться оба глагола, а с "" только 
+С дополнением "home" могут употребляться оба глагола (One morning I	*strolled	home* from the supermarket...),(They were	*walking	home* along the river bank...), а с дополнением "mile" только глагол "walk" (...Anna	walked	a hundred miles...).
